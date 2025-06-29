@@ -6,7 +6,7 @@
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=harshil-14&theme=monokai-metallian&hide_border=true&short_numbers=true" width="50%"/>
 
   <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=harshil-14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&custom_title=YASHKUMAR%20FADADU%27s%20GitHub%20Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=harshil-14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&custom_title=Harshil%20Motivaras%27s%20GitHub%20Stats" width="48%" />
 
   <!-- GitHub Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshil-14&theme=tokyonight" width="98%" alt="Profile Summary" />
@@ -30,11 +30,11 @@
 ## 📈 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/_mYash1994?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/harshil_14?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
 </div>
 
 ---
-# Hi there, I'm YASH FADADU 👋
+# Hi there, I'm Harshil Motivaras 👋
 ---
 <div align="center">
   <img src="Banner image.png" width="100%" height="auto" />
@@ -60,22 +60,19 @@ Passionate about building scalable applications and exploring new technologies!
 
 ### 🌟 Main Skills  
 #### 🚀 Programming Languages  
-[![Languages](https://skillicons.dev/icons?i=python,java,javascript,c,typescript,dart,cs,kotlin,rust,cairo)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=python,java,javascript,c,dart,cs)](https://skillicons.dev)  
 
 #### 🖥️ Frameworks & Technologies  
-[![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,tailwind,flask,flutter,androidstudio,apple)](https://skillicons.dev)  
+[![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,tailwind,flutter,androidstudio)](https://skillicons.dev)  
 
 #### 🗄️ Databases & Cloud  
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)  
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)  
 
 ---
 
 ### ⚡ Supporting Skills  
 #### 🔧 DevOps & Tools  
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,notion)](https://skillicons.dev)  
-
-#### 🎯 Currently Exploring  
-[![Currently Exploring](https://skillicons.dev/icons?i=ai,tensorflow,python,opencv,sklearn)](https://skillicons.dev)  
+[![Tools](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)  
 
 ---
 
@@ -87,18 +84,18 @@ Passionate about building scalable applications and exploring new technologies!
 ## 📫 Connect with Me  
 
 <div align="center">
-  <a href="mailto:fadaduyash1994@gmail.com">
+  <a href="mailto:harshilmotivarash@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/yash-fadadu-aba61327a/">
+  <a href="https://www.linkedin.com/in/harshil-motivaras-b7962b26a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/_mYash1994/">
+  <a href="https://leetcode.com/u/harshil_14">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://x.com/yash_fadadu_">
+<!--   <a href="https://x.com/yash_fadadu_">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  </a> -->
 </div>
 
 ---
