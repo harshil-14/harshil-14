@@ -41,15 +41,12 @@
 </div>
 
 ![GitHub followers](https://img.shields.io/github/followers/harshil-14?label=Followers&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/harshil-14?style=social)
 
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **AI/ML Algorithms**  
-- 🌱 I’m currently learning **Machine Learning, Cloud Computing, and Blockchain**  
-- 💬 Ask me about **Java, Kotlin, Python, Web3, and Coding Stuff**  
-- 🎯 Currently building **Zero-Knowledge Identity Solutions & AI-driven Finance Models**  
+- 🔭 I’m currently working on **Full Stack Development**  
+- 💬 Ask me about **Mern stack ,Dotnet,Java,Python**  
 - ⚡ Fun fact: **I can DO this ALL DAY! 😆**  
 
 ---
@@ -60,19 +57,13 @@ Passionate about building scalable applications and exploring new technologies!
 
 ### 🌟 Main Skills  
 #### 🚀 Programming Languages  
-[![Languages](https://skillicons.dev/icons?i=python,java,javascript,c,dart,cs)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=python,java,javascript,c,c++,cs)](https://skillicons.dev)  
 
 #### 🖥️ Frameworks & Technologies  
 [![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,tailwind,flutter,androidstudio)](https://skillicons.dev)  
 
 #### 🗄️ Databases & Cloud  
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)  
-
----
-
-### ⚡ Supporting Skills  
-#### 🔧 DevOps & Tools  
-[![Tools](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)  
 
 ---
 
