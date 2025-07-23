@@ -57,7 +57,7 @@ Passionate about building scalable applications and exploring new technologies!
 
 ### 🌟 Main Skills  
 #### 🚀 Programming Languages  
-[![Languages](https://skillicons.dev/icons?i=python,java,javascript,c,c++,cs)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=python,java,javascript,c,cpp,cs)](https://skillicons.dev)  
 
 #### 🖥️ Frameworks & Technologies  
 [![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,tailwind,flutter,androidstudio)](https://skillicons.dev)  
